@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\wp_lab_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|solutionrelative:wp_lab_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\wp_lab_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|solutionrelative:wp_lab_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\wp_lab_2\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|solutionrelative:wp_lab_2\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|c:\\users\\dhruv\\source\\repos\\wp_lab_2\\wp_lab_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|solutionrelative:wp_lab_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\wp_lab_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|solutionrelative:wp_lab_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\wp_lab_2\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|solutionrelative:wp_lab_2\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\wp_lab_2\\confirmation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3791235-957C-4D55-B6C1-55AE26FB9D68}|WP_LAB_2\\WP_LAB_2.csproj|solutionrelative:wp_lab_2\\confirmation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Form1.cs",
+              "RelativeDocumentMoniker": "WP_LAB_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Form1.cs [Design]",
+              "RelativeToolTip": "WP_LAB_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:42:19.809Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WP_LAB_2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Form1.Designer.cs",
+              "RelativeToolTip": "WP_LAB_2\\Form1.Designer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwG8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:52:06.667Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Confirmation.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Confirmation.cs",
+              "RelativeDocumentMoniker": "WP_LAB_2\\Confirmation.cs",
+              "ToolTip": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Confirmation.cs",
+              "RelativeToolTip": "WP_LAB_2\\Confirmation.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAA0wEIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:19:58.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Confirmation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Confirmation.cs",
+              "RelativeDocumentMoniker": "WP_LAB_2\\Confirmation.cs",
+              "ToolTip": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Confirmation.cs [Design]",
+              "RelativeToolTip": "WP_LAB_2\\Confirmation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:16:06.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Program.cs",
+              "RelativeDocumentMoniker": "WP_LAB_2\\Program.cs",
+              "ToolTip": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Program.cs",
+              "RelativeToolTip": "WP_LAB_2\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:08:53.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Form1.cs",
+              "RelativeDocumentMoniker": "WP_LAB_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Form1.cs",
+              "RelativeToolTip": "WP_LAB_2\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:47:59.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Confirmation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Confirmation.Designer.cs",
+              "RelativeDocumentMoniker": "WP_LAB_2\\Confirmation.Designer.cs",
+              "ToolTip": "C:\\Users\\dhruv\\source\\repos\\WP_LAB_2\\WP_LAB_2\\Confirmation.Designer.cs",
+              "RelativeToolTip": "WP_LAB_2\\Confirmation.Designer.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAiwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:20:04.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

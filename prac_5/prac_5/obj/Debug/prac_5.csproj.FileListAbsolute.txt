@@ -1,0 +1,10 @@
+E:\DotNet\prac_5\prac_5\bin\Debug\prac_5.exe.config
+E:\DotNet\prac_5\prac_5\bin\Debug\prac_5.exe
+E:\DotNet\prac_5\prac_5\bin\Debug\prac_5.pdb
+E:\DotNet\prac_5\prac_5\obj\Debug\prac_5.csproj.AssemblyReference.cache
+E:\DotNet\prac_5\prac_5\obj\Debug\prac_5.Form1.resources
+E:\DotNet\prac_5\prac_5\obj\Debug\prac_5.Properties.Resources.resources
+E:\DotNet\prac_5\prac_5\obj\Debug\prac_5.csproj.GenerateResource.cache
+E:\DotNet\prac_5\prac_5\obj\Debug\prac_5.csproj.CoreCompileInputs.cache
+E:\DotNet\prac_5\prac_5\obj\Debug\prac_5.exe
+E:\DotNet\prac_5\prac_5\obj\Debug\prac_5.pdb

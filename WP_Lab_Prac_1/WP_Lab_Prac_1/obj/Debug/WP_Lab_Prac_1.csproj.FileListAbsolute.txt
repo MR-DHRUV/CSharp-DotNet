@@ -1,0 +1,12 @@
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\obj\Debug\WP_Lab_Prac_1.csproj.AssemblyReference.cache
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\obj\Debug\WP_Lab_Prac_1.Form1.resources
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\obj\Debug\WP_Lab_Prac_1.Form2.resources
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\obj\Debug\WP_Lab_Prac_1.Properties.Resources.resources
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\obj\Debug\WP_Lab_Prac_1.csproj.GenerateResource.cache
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\obj\Debug\WP_Lab_Prac_1.csproj.CoreCompileInputs.cache
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\bin\Debug\WP_Lab_Prac_1.exe.config
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\bin\Debug\WP_Lab_Prac_1.exe
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\bin\Debug\WP_Lab_Prac_1.pdb
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\obj\Debug\WP_Lab_Prac_1.exe
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\obj\Debug\WP_Lab_Prac_1.pdb
+E:\DotNet\WP_Lab_Prac_1\WP_Lab_Prac_1\obj\Debug\WP_Lab_Prac_1.Calculator.resources

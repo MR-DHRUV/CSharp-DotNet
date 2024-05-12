@@ -1,0 +1,11 @@
+C:\Users\dhruv\source\repos\WP_LAB_2\WP_LAB_2\bin\Debug\WP_LAB_2.exe.config
+C:\Users\dhruv\source\repos\WP_LAB_2\WP_LAB_2\bin\Debug\WP_LAB_2.exe
+C:\Users\dhruv\source\repos\WP_LAB_2\WP_LAB_2\bin\Debug\WP_LAB_2.pdb
+C:\Users\dhruv\source\repos\WP_LAB_2\WP_LAB_2\obj\Debug\WP_LAB_2.csproj.AssemblyReference.cache
+C:\Users\dhruv\source\repos\WP_LAB_2\WP_LAB_2\obj\Debug\WP_LAB_2.Form1.resources
+C:\Users\dhruv\source\repos\WP_LAB_2\WP_LAB_2\obj\Debug\WP_LAB_2.Properties.Resources.resources
+C:\Users\dhruv\source\repos\WP_LAB_2\WP_LAB_2\obj\Debug\WP_LAB_2.csproj.GenerateResource.cache
+C:\Users\dhruv\source\repos\WP_LAB_2\WP_LAB_2\obj\Debug\WP_LAB_2.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\WP_LAB_2\WP_LAB_2\obj\Debug\WP_LAB_2.exe
+C:\Users\dhruv\source\repos\WP_LAB_2\WP_LAB_2\obj\Debug\WP_LAB_2.pdb
+C:\Users\dhruv\source\repos\WP_LAB_2\WP_LAB_2\obj\Debug\WP_LAB_2.Confirmation.resources

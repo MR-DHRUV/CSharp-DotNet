@@ -1,0 +1,10 @@
+E:\DotNet\prac_8\prac_8\bin\Debug\prac_8.exe.config
+E:\DotNet\prac_8\prac_8\bin\Debug\prac_8.exe
+E:\DotNet\prac_8\prac_8\bin\Debug\prac_8.pdb
+E:\DotNet\prac_8\prac_8\obj\Debug\prac_8.csproj.AssemblyReference.cache
+E:\DotNet\prac_8\prac_8\obj\Debug\prac_8.Form1.resources
+E:\DotNet\prac_8\prac_8\obj\Debug\prac_8.Properties.Resources.resources
+E:\DotNet\prac_8\prac_8\obj\Debug\prac_8.csproj.GenerateResource.cache
+E:\DotNet\prac_8\prac_8\obj\Debug\prac_8.csproj.CoreCompileInputs.cache
+E:\DotNet\prac_8\prac_8\obj\Debug\prac_8.exe
+E:\DotNet\prac_8\prac_8\obj\Debug\prac_8.pdb
