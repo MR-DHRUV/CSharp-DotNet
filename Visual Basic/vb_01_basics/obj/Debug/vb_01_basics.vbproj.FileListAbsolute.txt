@@ -1,0 +1,12 @@
+E:\DotNet\Visual Basic\vb_01_basics\obj\Debug\vb_01_basics.vbproj.AssemblyReference.cache
+E:\DotNet\Visual Basic\vb_01_basics\obj\Debug\vb_01_basics.Form1.resources
+E:\DotNet\Visual Basic\vb_01_basics\obj\Debug\vb_01_basics.Resources.resources
+E:\DotNet\Visual Basic\vb_01_basics\obj\Debug\vb_01_basics.vbproj.GenerateResource.cache
+E:\DotNet\Visual Basic\vb_01_basics\obj\Debug\vb_01_basics.vbproj.CoreCompileInputs.cache
+E:\DotNet\Visual Basic\vb_01_basics\bin\Debug\vb_01_basics.exe.config
+E:\DotNet\Visual Basic\vb_01_basics\bin\Debug\vb_01_basics.exe
+E:\DotNet\Visual Basic\vb_01_basics\bin\Debug\vb_01_basics.pdb
+E:\DotNet\Visual Basic\vb_01_basics\bin\Debug\vb_01_basics.xml
+E:\DotNet\Visual Basic\vb_01_basics\obj\Debug\vb_01_basics.exe
+E:\DotNet\Visual Basic\vb_01_basics\obj\Debug\vb_01_basics.xml
+E:\DotNet\Visual Basic\vb_01_basics\obj\Debug\vb_01_basics.pdb

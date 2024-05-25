@@ -8,3 +8,13 @@ E:\DotNet\prac_6\prac_6\bin\Debug\prac_6.exe
 E:\DotNet\prac_6\prac_6\bin\Debug\prac_6.pdb
 E:\DotNet\prac_6\prac_6\obj\Debug\prac_6.exe
 E:\DotNet\prac_6\prac_6\obj\Debug\prac_6.pdb
+E:\DotNet\prac_7\prac_6\bin\Debug\prac_6.exe.config
+E:\DotNet\prac_7\prac_6\bin\Debug\prac_6.exe
+E:\DotNet\prac_7\prac_6\bin\Debug\prac_6.pdb
+E:\DotNet\prac_7\prac_6\obj\Debug\prac_6.csproj.AssemblyReference.cache
+E:\DotNet\prac_7\prac_6\obj\Debug\prac_6.Notify.resources
+E:\DotNet\prac_7\prac_6\obj\Debug\prac_6.Properties.Resources.resources
+E:\DotNet\prac_7\prac_6\obj\Debug\prac_6.csproj.GenerateResource.cache
+E:\DotNet\prac_7\prac_6\obj\Debug\prac_6.csproj.CoreCompileInputs.cache
+E:\DotNet\prac_7\prac_6\obj\Debug\prac_6.exe
+E:\DotNet\prac_7\prac_6\obj\Debug\prac_6.pdb

@@ -1,0 +1,12 @@
+E:\DotNet\Visual Basic\vb_oops\bin\Debug\vb_oops.exe.config
+E:\DotNet\Visual Basic\vb_oops\bin\Debug\vb_oops.exe
+E:\DotNet\Visual Basic\vb_oops\bin\Debug\vb_oops.pdb
+E:\DotNet\Visual Basic\vb_oops\bin\Debug\vb_oops.xml
+E:\DotNet\Visual Basic\vb_oops\obj\Debug\vb_oops.vbproj.AssemblyReference.cache
+E:\DotNet\Visual Basic\vb_oops\obj\Debug\vb_oops.Base.resources
+E:\DotNet\Visual Basic\vb_oops\obj\Debug\vb_oops.Resources.resources
+E:\DotNet\Visual Basic\vb_oops\obj\Debug\vb_oops.vbproj.GenerateResource.cache
+E:\DotNet\Visual Basic\vb_oops\obj\Debug\vb_oops.vbproj.CoreCompileInputs.cache
+E:\DotNet\Visual Basic\vb_oops\obj\Debug\vb_oops.exe
+E:\DotNet\Visual Basic\vb_oops\obj\Debug\vb_oops.xml
+E:\DotNet\Visual Basic\vb_oops\obj\Debug\vb_oops.pdb

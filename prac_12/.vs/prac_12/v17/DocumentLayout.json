@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8A2F0F44-C7C6-459E-8159-CC7DB399B745}|prac_12\\prac_12.csproj|solutionrelative:prac_12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2F0F44-C7C6-459E-8159-CC7DB399B745}|prac_12\\prac_12.csproj|e:\\dotnet\\prac_12\\prac_12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8A2F0F44-C7C6-459E-8159-CC7DB399B745}|prac_12\\prac_12.csproj|E:\\DotNet\\prac_12\\prac_12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8A2F0F44-C7C6-459E-8159-CC7DB399B745}|prac_12\\prac_12.csproj|solutionrelative:prac_12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "prac_12\\Form1.cs",
               "ToolTip": "E:\\DotNet\\prac_12\\prac_12\\Form1.cs",
               "RelativeToolTip": "prac_12\\Form1.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwCcAAAAXAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwCAAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T11:57:36.798Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "E:\\DotNet\\prac_12\\prac_12\\Form1.cs [Design]",
               "RelativeToolTip": "prac_12\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T11:55:32.558Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-12T11:55:32.558Z"
             }
           ]
         }

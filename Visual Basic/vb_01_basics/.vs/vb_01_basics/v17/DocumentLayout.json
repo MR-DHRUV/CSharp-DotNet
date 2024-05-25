@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Visual Basic\\vb_01_basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7890696C-D847-441B-A6FD-D063F0B13FC9}|vb_01_basics.vbproj|e:\\dotnet\\visual basic\\vb_01_basics\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7890696C-D847-441B-A6FD-D063F0B13FC9}|vb_01_basics.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7890696C-D847-441B-A6FD-D063F0B13FC9}|vb_01_basics.vbproj|E:\\DotNet\\Visual Basic\\vb_01_basics\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7890696C-D847-441B-A6FD-D063F0B13FC9}|vb_01_basics.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\DotNet\\Visual Basic\\vb_01_basics\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\DotNet\\Visual Basic\\vb_01_basics\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-23T09:42:38.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\DotNet\\Visual Basic\\vb_01_basics\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\DotNet\\Visual Basic\\vb_01_basics\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-23T09:42:35.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

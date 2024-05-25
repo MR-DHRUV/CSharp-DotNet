@@ -1,0 +1,10 @@
+E:\DotNet\practice\practice\bin\Debug\practice.exe.config
+E:\DotNet\practice\practice\bin\Debug\practice.exe
+E:\DotNet\practice\practice\bin\Debug\practice.pdb
+E:\DotNet\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+E:\DotNet\practice\practice\obj\Debug\practice.Form1.resources
+E:\DotNet\practice\practice\obj\Debug\practice.Properties.Resources.resources
+E:\DotNet\practice\practice\obj\Debug\practice.csproj.GenerateResource.cache
+E:\DotNet\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+E:\DotNet\practice\practice\obj\Debug\practice.exe
+E:\DotNet\practice\practice\obj\Debug\practice.pdb
